@@ -1,0 +1,5 @@
+test.sh
+**/bin/**
+**/obj/**
+.idea/**
+.vs/**
