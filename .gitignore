@@ -3,3 +3,5 @@ test.sh
 **/obj/**
 .idea/**
 .vs/**
+*.sublime-project
+*.sublime-workspace
